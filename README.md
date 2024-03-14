@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mitch Hammond</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on creating a podcast landing page **100 Ghostly Candles**
+- 🔭 I’m currently working on creating a podcast landing page for **100 Ghostly Candles**
 
 - 🌱 I’m currently learning **Advanced React | Single Page API's | Jest**
 
